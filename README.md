@@ -14,7 +14,7 @@ Para rodar o código no Git Bash, primeiro intale o Git na sua máquina.
 
 baixar jdk 11 ou superior , idea eclipse
 
-###Questão 01
+##Questão 01
                *
             **
           ***
@@ -22,13 +22,14 @@ baixar jdk 11 ou superior , idea eclipse
       *****
     ******
 
-###Observação da resposta
+##Observação da resposta
 Desenvolvi uma resposta com uma ideia o qual o usuário entra com um número e a saída é uma escada com base e altura iguais. para isso usei arrays ou vetores para armazenar.
 
 ###Questão 02
 Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios: Possui no mínimo 6 caracteres. Contém no mínimo 1 digito. Contém no mínimo 1 letra em minúsculo. Contém no mínimo 1 letra em maiúsculo. Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+ Débora digitou uma string aleatória no campo de senha, porém ela não tem certeza se é uma senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura. Exemplo: Entrada: Ya3 Saída: 3 Explicação: Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
 
 Observação da resposta
+
 Nesse exercício desenvolvi duas respostas para a mesma questão, sendo o primeiro bem simples entregando apenas o resultado que o exercício pedia que era um alerta para Débora que sua senha era fraca e faltava no minímo n caracteres para que a sua senha tivesse pelo menos 6 caracteres, tendo em vista que o execício não pedia para informar na saída se tinha Letras, números, caracteres especiais, se tinha letra em minúsculo ou maiúsculo.
 
 Mas na segunda resposta tomei o cuidado de desenvolver um algoritimo que informe Débora a quantidade de caracteres, quantos faltam para o minimo, se tem mais de 6 caracteres, se está faltando letras minúsculas ou maiúsculas, se falta caracteres especiais, também dando sugestões de caracteres para sua senha se tornar forte e outros.
