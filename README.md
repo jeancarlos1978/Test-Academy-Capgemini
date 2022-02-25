@@ -3,7 +3,6 @@
 Desafio_Java Academia Técnica Capgemini
 
 Este projeto tem como objetivo a solução do Desafio da Academia Técnica Capgemini, composto por três questões.
-
 Os desafios se Encontram na pasta src pacote testeCap com três classes as quais cada uma tem a resposta para uma das questões do desafio.
 
 Este projeto foi criado com o Eclipse idea e pode ser rodado tanto no console da IDE como no Git Bash, usando os import e o código descrito nos desafios.
